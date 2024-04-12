@@ -1,2 +1,2 @@
 # IngDeSoftware
-Actividades Ing de Software
+Stuart Ián (legajo 306260)
